@@ -5,4 +5,5 @@ The data was retrieved from the New York Department of Finance. I used different
 computed for each feature set. 
 
 
-P.S I uploaded the rollingsales_queens into my seaborn load_dataset folder in JupyterNotebook. Then, I imported with sns! From mac user :(.
+P.S I uploaded the rollingsales_queens into my seaborn load_dataset folder in JupyterNotebook. Then, I imported it with sns.load_dataset! 
+From mac user :(.
